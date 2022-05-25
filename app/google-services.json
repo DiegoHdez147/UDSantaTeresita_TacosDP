@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517241674156",
+    "project_id": "mapaudsantateresita-3846c",
+    "storage_bucket": "mapaudsantateresita-3846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517241674156:android:f99140c6d2ab3254ddc209",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.udsantateresita_tacosdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517241674156-m6pp2grlsojpd9dcettrkj9sja12urp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSknskpZM2EuySm6RjNJm9Cle3ihHY3Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517241674156-m6pp2grlsojpd9dcettrkj9sja12urp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
